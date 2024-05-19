@@ -33,21 +33,21 @@ We got the spark plugs from a 370z
 
 We had to drop the engine to access the turbo, as opposed to climbing underneith the questionable structural soundness of the car.
 
-<!-- insert engine_drop video here -->
+https://github.com/carwyn987/Turbojet-Engine/assets/28845732/023d33fa-a0c1-4f9d-b986-59cab4fc10e4
 
 And after a while we got it
 
-<!-- insert we_got_the_turbo_off here -->
+https://github.com/carwyn987/Turbojet-Engine/assets/28845732/a0554b68-fa33-475b-975e-104140666305
 
 I bought a portable compressed air tank off facebook marketplace, and similarly, bought part of a Ford exhaust system for the tubing.
 
 We needed to cut holes in the tank to attach the tubing. After trial and error, and eventually reading the instruction manual, we got the acetylene torch stable.
 
-<!-- insert figuring_out_the_torch here -->
+https://github.com/carwyn987/Turbojet-Engine/assets/28845732/1aeee6c3-910e-49c4-bafd-64686aa99efd
 
 Cutting the holes had a few bumps.
 
-<!-- insert rip_jwill here -->
+https://github.com/carwyn987/Turbojet-Engine/assets/28845732/78f778e6-dcb2-4205-8a39-75e39d5b109f
 
 Then came assembly - welding it all together, tapping some holds, etc.
 
@@ -55,10 +55,10 @@ Then came assembly - welding it all together, tapping some holds, etc.
 
 A test fire to see if everything would explode.
 
-<!-- insert test_fire here -->
+https://github.com/carwyn987/Turbojet-Engine/assets/28845732/a5695917-58a3-4b86-8c7a-0e67b027d068
 
 And finally, a couple good runs
 
-<!-- insert good_run here -->
+https://github.com/carwyn987/Turbojet-Engine/assets/28845732/02a9f64c-515e-41ca-b1aa-0f21a07e5ca6
 
-<!-- insert firey_run here -->
+https://github.com/carwyn987/Turbojet-Engine/assets/28845732/e892c9c4-96f5-4a30-8936-6a1557a2186a
